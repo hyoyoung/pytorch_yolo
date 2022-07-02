@@ -1,0 +1,1 @@
+pip install ipython seaborn matplotlib torchvision tqdm pillow pyyaml requests pandas opencv-python torch protobuf psutil
